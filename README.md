@@ -1,4 +1,4 @@
-# XSens-Biomechanics-Competition
+# XSens-Biomechanics-Modeling
 
 Abstract:
 Through a robust and comprehensive analysis of data collected from XSens IMU sensors during a variety of exercises at varying weights, we propose a generalized and probabilistic modeling approach to quantitatively understand a subject’s form and performance. This is for the objective of offering clinical practitioners useful and practical techniques to provide better guidance in training and rehabilitation. We conclude our approach provides a strong localized and global view into a subject’s fitness behavior through data mining and simulated Bayesian estimation.
